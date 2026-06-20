@@ -16,7 +16,7 @@ weight = 60
 +++
 SCIE@SHU 
 
-- Principles of Communications (Undergrad, Fall and Winter 2019)
+- Principles of Communications (Undergrad)
 
 EE@THU (TA)
 
