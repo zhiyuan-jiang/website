@@ -265,3 +265,46 @@ defaultContentLanguageInSubdir = false
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"
+
+[Languages.zh]
+  languageCode = "zh-cn"
+  title = "姜之源"
+  weight = 2
+
+  [Languages.zh.params]
+    name = "姜之源"
+    role = "教授"
+    organizations = [ { name = "上海大学通信与信息工程学院", url = "" } ]
+    address = "上海市宝山区南陈路333号12号楼309"
+    date_format = "2006年1月2日"
+    time_format = "15:04"
+
+  [[Languages.zh.menu.main]]
+    name = "首页"
+    url = "#about"
+    weight = 1
+
+  [[Languages.zh.menu.main]]
+    name = "荣誉与奖励"
+    url = "#honors"
+    weight = 2
+
+  [[Languages.zh.menu.main]]
+    name = "学术服务"
+    url = "#services"
+    weight = 3
+
+  [[Languages.zh.menu.main]]
+    name = "教学"
+    url = "#teaching"
+    weight = 5
+
+  [[Languages.zh.menu.main]]
+    name = "个人"
+    url = "#personal"
+    weight = 6
+
+  [[Languages.zh.menu.main]]
+    name = "联系方式"
+    url = "#contact"
+    weight = 8
